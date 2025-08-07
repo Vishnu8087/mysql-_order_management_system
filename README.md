@@ -56,7 +56,7 @@ This project demonstrates a simple **Order Management System** using **MySQL**. 
 - Triggers for automation
 
 ---
-![ER Diagram](assets/er_diagram.png)
+![ER Diagram] prject er_diargram.png
 
 
 ##  Author
