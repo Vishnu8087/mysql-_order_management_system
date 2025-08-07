@@ -58,7 +58,7 @@ This project demonstrates a simple **Order Management System** using **MySQL**. 
 ---
 ## ER Diagram
 
-![ER Diagram](project_er_Diagram.png)
+![ER Diagram](projecter_Diagram.png)
 
 
 
